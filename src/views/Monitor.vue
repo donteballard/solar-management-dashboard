@@ -138,7 +138,7 @@
         </q-page-container>
 <br>
          <q-separator />
-         Copyright Sunovision 2022
+         Copyright D'onte' Ballard 2024
     </q-layout>
 </div>
 </template>

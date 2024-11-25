@@ -269,7 +269,7 @@ export default {
         { name: 'actions', align: 'right', label: 'Actions', field: 'actions' },
       ],
       userRows: [
-        { role: 'SuperUser', name: 'Joey Dorwart', email: 'joey@sunovision.com', customer: 'Sunovision', accountSiteCount: '1 / 20'}
+        { role: 'SuperUser', name: "D'onte' Ballard", email: 'dballard@ballardsolar.com', customer: 'Ballard Solar', accountSiteCount: '1 / 20'}
       ],
       customerLink: null,
       customerCreated: false,
@@ -288,9 +288,9 @@ export default {
       q: useQuasar(),
       isPwd: true,
       editUser: false,
-      name: 'Joey Dorwart',
-      email: 'joey@sunovision.com',
-      password: 'Sunovision1',
+      name: "D'onte' Ballard",
+      email: 'dballard@ballardsolar.com',
+      password: 'BallardSolar1',
       confirmPassword: null,
       tab: 'userSettings',
     }

@@ -53,3 +53,8 @@ Solar Management Dashboard is a professional-grade monitoring solution that help
 - Secure API endpoints
 - Session management
 - Activity logging
+
+## 📱 Screenshots
+
+![Solar Management Dashboard Monitor](./assets/dashboard.png)
+*Main monitoring interface showing solar array performance*

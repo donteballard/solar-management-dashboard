@@ -6,7 +6,7 @@
       <q-toolbar>
         <q-toolbar-title>
           <q-avatar>
-            <img src="@/assets/logo.png" alt="Sunovision">
+            <img src="@/assets/logo.png" alt="Ballard Solar">
           </q-avatar>
           <q-btn to="/" stretch flat label="Monitor" />
           <q-btn to="/sites" stretch flat label="Sites" />
@@ -35,7 +35,7 @@
               <img src="https://www.brideandgroom.com.au/static/resources/images/avatar.png">
             </q-avatar>
 
-            <div class="text-subtitle1 q-mt-md q-mb-xs">Joey D.</div>
+            <div class="text-subtitle1 q-mt-md q-mb-xs">D'onte' B.</div>
 
             <q-btn
               color="amber"

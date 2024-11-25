@@ -52,7 +52,7 @@ const apiPDFClient = () => {
 }
 
 
-//TODO: this is where all API calls are configured to Sunovision API
+//TODO: this is where all API calls are configured to the API
 export default {
   // auth
   login(user) {
